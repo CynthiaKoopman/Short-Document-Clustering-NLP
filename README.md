@@ -6,7 +6,7 @@ customer reviews and even military messages are all very short and therefore
 harder to handle than longer texts. Cluster analysis is essential in gaining
 insight from these unlabeled texts. Preprocessing often removes words, which
 can become risky in short texts, where the main message is made of only
-a few words. The eect of preprocessing and feature extraction on these
+a few words. The effect of preprocessing and feature extraction on these
 short documents is therefore analyzed in this paper. Six different levels of
 text normalization are combined with four different feature extraction meth-
 ods. These setting are all applied on K-means clustering and tested on three
