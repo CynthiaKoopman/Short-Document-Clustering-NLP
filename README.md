@@ -1,4 +1,4 @@
-# Benchmark Study on The Effect of Preprocessing and Feature Extraction on Short Document Clustering
+# Benchmark Study on The Effect of Preprocessing on Short Document Clustering
 Document clustering has gained popularity due to social media and its
 large volume. Natural Language Processing is able to extract information
 from unstructured data which can be powerful for businesses. Social media,
