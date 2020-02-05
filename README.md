@@ -13,3 +13,16 @@ ods. These setting are all applied on K-means clustering and tested on three
 different datasets. Anticipated results can not be concluded, however other
 findings are insightful in terms of the connection between text cleaning and
 feature extraction.
+
+
+Implements:
+* TF-IDF
+* TF-IDF with n-grams
+* Word2Vec
+* GloVe
+* K-means clustering
+* various degrees of text cleaning
+
+Datasets used are from Amazon, Yelp and DBpedia found via "Xiang Zhang, Junbo Zhao, and Yann LeCun. Character-level convolutional
+networks for text classification. In Advances in neural information processing
+systems, pages 649{657, 2015"
