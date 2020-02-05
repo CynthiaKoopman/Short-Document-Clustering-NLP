@@ -15,7 +15,7 @@ findings are insightful in terms of the connection between text cleaning and
 feature extraction.
 
 
-Implements:
+This study implements:
 * TF-IDF
 * TF-IDF with n-grams
 * Word2Vec
