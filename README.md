@@ -26,3 +26,5 @@ This study implements:
 Datasets used are from Amazon, Yelp and DBpedia found via "Xiang Zhang, Junbo Zhao, and Yann LeCun. Character-level convolutional
 networks for text classification. In Advances in neural information processing
 systems, pages 649{657, 2015"
+
+This paper has been accepted in the Jounal Archives of Data Science.
