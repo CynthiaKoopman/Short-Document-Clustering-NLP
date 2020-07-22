@@ -27,4 +27,4 @@ Datasets used are from Amazon, Yelp and DBpedia found via "Xiang Zhang, Junbo Zh
 networks for text classification. In Advances in neural information processing
 systems, pages 649{657, 2015"
 
-This paper has been accepted in the Jounal Archives of Data Science.
+This paper has been accepted in the Jounal Archives of Data Science: https://publikationen.bibliothek.kit.edu/1000121376
