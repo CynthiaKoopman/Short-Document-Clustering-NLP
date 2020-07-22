@@ -1,7 +1,7 @@
 # The Effect of Preprocessing on Short Document Clustering
-This paper has been accepted in the Jounal Archives of Data Science, Series A: https://publikationen.bibliothek.kit.edu/1000121376
+This paper has been accepted in the Jounal Archives of Data Science, Series A: 
 
-Koopman, Cynthia and Wilhelm, Adalbert (2020), The Effect of Preprocessing on Short Document Clustering, Archives of Data Science, Series A 6(1), 1 - 16
+Koopman, C., and Wilhelm, A., “The Effect of Preprocessing on Short Document Clustering,”Archives of Data Science, SeriesA (Online First), Vol. 6, No. 1, 2020, pp. 1–16. https://doi.org/10.5445/KSP/1000098011/01
 
 Abstract: Document clustering has gained popularity due to social media and its
 large volume. Natural Language Processing is able to extract information
